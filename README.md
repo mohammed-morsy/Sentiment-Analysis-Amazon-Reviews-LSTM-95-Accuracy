@@ -19,7 +19,7 @@ This project demonstrates how to perform **Sentiment Analysis** on Amazon produc
 -	Sentiment Classifier without RNN Architecture: Build a simple neural network model for sentiment classification.
 -	Bidirectional LSTM Sentiment Classifier: Build and train a Bidirectional LSTM model to capture sequential dependencies in the reviews.
 ### 8.	Model Evaluation
-  Evaluate the model on the validation and test datasets to assess performance using accuracy, precision, recall, and F1-score.
+  Evaluate the model on the validation and test datasets to assess performance using accuracy.
 ### 9.	Results Analysis
   Analyze the results, compare the performance of the models, and suggest potential improvements.
 
